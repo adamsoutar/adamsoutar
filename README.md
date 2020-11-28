@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **adamsoutar/adamsoutar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api?username=adamsoutar" /></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsoutar&exclude_repo=GitBot&layout=compact" /></td></td></tbody></table>
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/adamsoutar/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/adamsoutar/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/adamsoutar/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+#### Play my game <a href="http://overflo.me/mastermine/">MASTERMINE</a> - You have to 'cause I told you so!
