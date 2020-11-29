@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <table><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api?username=adamsoutar" /></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsoutar&exclude_repo=GitBot&layout=compact" /></td></td></tbody></table>
 
-### Play my game <a href="http://overflo.me/mastermine/">MASTERMINE</a> - You have to now 'cause I told you so
+### Play my game <a href="https://adamsoutar.itch.io/mastermine">MASTERMINE</a> - You have to now 'cause I told you so
