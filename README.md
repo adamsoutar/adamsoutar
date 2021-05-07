@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 
 <p>
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
 <hr />
 <h3 align="center">
 Play my game <a href="https://mastermine.app">MASTERMINE</a> - If you don't I'll be sad 🥲
