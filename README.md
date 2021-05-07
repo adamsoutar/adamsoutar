@@ -13,6 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api?username=adamsoutar" /></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsoutar&exclude_repo=GitBot&layout=compact" /></td></td></tbody></table>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adamsoutar" />
 
-### Play my game <a href="https://mastermine.app">MASTERMINE</a> - You have to now 'cause I told you so
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamsoutar&layout=compact&hide=php,html,css" />
+
+
+<p>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+<hr />
+<h3 align="center">
+Play my game <a href="https://mastermine.app">MASTERMINE</a> - If you don't I'll be sad 🥲
+</h3>
+</p>
